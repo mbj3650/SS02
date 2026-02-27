@@ -34,6 +34,11 @@ int main()
 	for (int i = 0; i < sizeof(NPCPointer) / sizeof(NPCPointer[0]); i++) {
 		PrintNPCDetails(NPCPointer[i]);
 	}
+	delete NPCPointer;
+	for (int i = 0; i < sizeof(NPCArray) / sizeof(NPCArray[0]); i++) {
+		NPCPointer[i] = 0;
+	}
+	//deallocate pointers
 	return 0;
 }
 /* Insert function definitions here */
