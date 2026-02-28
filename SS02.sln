@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using Structures", "Using Structures\Using Structures.vcxproj", "{F2F9B38D-140C-4406-9845-4A3B34E7C37F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using Enumerations", "Using Enumerations\Using Enumerations.vcxproj", "{AB6C5547-26EB-4266-8B28-73F23CFABA69}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using Pointers and the Free Store", "Using Pointers and the Free Store\Using Pointers and the Free Store.vcxproj", "{2389C7DA-6CA8-4092-9ECC-414A931AE75E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keyboard WhackEmAll", "Keyboard WhackEmAll\Keyboard WhackEmAll.vcxproj", "{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{2389C7DA-6CA8-4092-9ECC-414A931AE75E}.Release|x64.Build.0 = Release|x64
 		{2389C7DA-6CA8-4092-9ECC-414A931AE75E}.Release|x86.ActiveCfg = Release|Win32
 		{2389C7DA-6CA8-4092-9ECC-414A931AE75E}.Release|x86.Build.0 = Release|Win32
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Debug|x64.ActiveCfg = Debug|x64
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Debug|x64.Build.0 = Debug|x64
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Debug|x86.ActiveCfg = Debug|Win32
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Debug|x86.Build.0 = Debug|Win32
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Release|x64.ActiveCfg = Release|x64
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Release|x64.Build.0 = Release|x64
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Release|x86.ActiveCfg = Release|Win32
+		{44E3F421-F94C-4D0E-BB98-6C83BCFC1038}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
