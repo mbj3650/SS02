@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Colour Tic Tac Toe", "Colou
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spaceman Zuur", "Spaceman Zuur\Spaceman Zuur.vcxproj", "{71CF82FC-F3C6-4184-9619-D0443A0B9271}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleships", "Battleships\Battleships.vcxproj", "{B67A6130-02F3-4282-90BD-563FBF4FF4E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{71CF82FC-F3C6-4184-9619-D0443A0B9271}.Release|x64.Build.0 = Release|x64
 		{71CF82FC-F3C6-4184-9619-D0443A0B9271}.Release|x86.ActiveCfg = Release|Win32
 		{71CF82FC-F3C6-4184-9619-D0443A0B9271}.Release|x86.Build.0 = Release|Win32
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Debug|x64.ActiveCfg = Debug|x64
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Debug|x64.Build.0 = Debug|x64
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Debug|x86.Build.0 = Debug|Win32
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Release|x64.ActiveCfg = Release|x64
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Release|x64.Build.0 = Release|x64
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Release|x86.ActiveCfg = Release|Win32
+		{B67A6130-02F3-4282-90BD-563FBF4FF4E8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
